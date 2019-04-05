@@ -1,0 +1,186 @@
+{
+  "data": [{
+    "name": "Midnight lo-fi",
+    "images": "https://i1.sndcdn.com/artworks-000440204811-zjz6ax-t500x500.jpg",
+    "code": "https://soundcloud.com/lonesomejupiter/sets/midnight-lofi"
+  },
+    {
+      "name": "Chill Out 2018",
+      "images": "https://i1.sndcdn.com/artworks-000118804678-4n5cp9-t500x500.jpg",
+      "code": "https://soundcloud.com/thiago-silva-394/sets/chill-out-2018"
+    },
+
+
+    {
+      "name": "Sunday music and hot coffee..",
+      "images": "",
+      "code": "https://soundcloud.com/user-876658341/sets/sunday-music-and-hot-coffee"
+    },
+
+    {
+      "name": "Jazzhip 7",
+      "images": "",
+      "code": "https://soundcloud.com/lovelovesyousoo/sets/jazzhip7c"
+    },
+
+
+    {
+      "name": "Dance & EDM",
+      "images": "",
+      "code": "danceedm"
+
+    },
+    {
+      "name": "DanceHall",
+      "images": "",
+      "code": "dancehall"
+    },
+    {
+      "name": "Deep House",
+      "images": "",
+      "code": "deephouse"
+    },
+    {
+      "name": "Disco",
+      "images": "",
+      "code": "disco"
+    },
+    {
+      "name": "Dubstep",
+      "images": "",
+      "code": "dubstep"
+    },
+
+    {
+      "name": "Electronic",
+      "images": "",
+      "code": "electronic"
+    },
+    {
+      "name": "Hiphop",
+      "images": "",
+      "code": "hiphoprap"
+    },
+
+    {
+      "name": "House",
+      "images": "",
+      "code": "house"
+    },
+
+    {
+      "name": "Indie",
+      "images": "",
+      "code": "indie"
+    },
+
+    {
+      "name": "Pop",
+      "images": "",
+      "code": "pop"
+    },
+
+
+    {
+      "name": "Trance",
+      "images": "",
+      "code": "trance"
+    },
+
+    {
+      "name": "Techno",
+      "images": "",
+      "code": "techno"
+    },
+
+    {
+      "name": "Latin",
+      "images": "",
+      "code": "latin"
+    },
+
+    {
+      "name": "Metal",
+      "images": "",
+      "code": "metal"
+    },
+
+    {
+      "name": "Reggae",
+      "images": "",
+      "code": "reggae"
+    },
+
+    {
+      "name": "Rock",
+      "images": "",
+      "code": "rock"
+    },
+
+    {
+      "name": "World",
+      "images": "",
+      "code": "world"
+    },
+
+    {
+      "name": "Audio Books",
+      "images": "",
+      "code": "audiobooks"
+    },
+
+    {
+      "name": "Business",
+      "images": "",
+      "code": "business"
+    },
+    {
+      "name": "Comedy",
+      "images": "",
+      "code": "comedy"
+    },
+
+    {
+      "name": "Entertainment",
+      "images": "",
+      "code": "entertainment"
+    },
+
+
+    {
+      "name": "Learning",
+      "images": "",
+      "code": "learning"
+    },
+
+
+    {
+      "name": "Science",
+      "images": "",
+      "code": "science"
+    },
+
+
+
+    {
+      "name": "Sports",
+      "images": "",
+      "code": "sports"
+    },
+
+
+    {
+      "name": "Story Telling",
+      "images": "",
+      "code": "storytelling"
+    },
+
+
+
+    {
+      "name": "Technology",
+      "images": "",
+      "code": "technology"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "data": [{
+    "name": "All Music",
+    "images": "https://i1.sndcdn.com/artworks-000508179429-2j2wzk-t500x500.jpg",
+    "code": "all-music"
+  },
+    {
+      "name": "Ambient",
+      "images": "https://i1.sndcdn.com/artworks-000507141843-g04y76-t500x500.jpg",
+      "code": "ambient"
+    },
+
+
+    {
+      "name": "Classical",
+      "images": "https://i1.sndcdn.com/artworks-000507634392-mf6eod-t500x500.jpg",
+      "code": "classical"
+    },
+
+    {
+      "name": "Country",
+      "images": "https://i1.sndcdn.com/artworks-000509421738-tdsvqi-t500x500.jpg",
+      "code": "country"
+    },
+
+
+    {
+      "name": "Dance & EDM",
+      "images": "https://i1.sndcdn.com/artworks-000507794319-ngkcua-t500x500.jpg",
+      "code": "danceedm"
+
+    },
+    {
+      "name": "DanceHall",
+      "images": "https://i1.sndcdn.com/artworks-000208295569-29ga6b-t500x500.jpg",
+      "code": "dancehall"
+    },
+    {
+      "name": "Deep House",
+      "images": "https://i1.sndcdn.com/artworks-000507687033-54ovyz-t500x500.jpg",
+      "code": "deephouse"
+    },
+    {
+      "name": "Disco",
+      "images": "https://i1.sndcdn.com/artworks-000509193861-xuihhv-t500x500.jpg",
+      "code": "disco"
+    },
+    {
+      "name": "Dubstep",
+      "images": "https://i1.sndcdn.com/artworks-000508254243-9c7xcm-t500x500.jpg",
+      "code": "dubstep"
+    },
+
+    {
+      "name": "Electronic",
+      "images": "https://i1.sndcdn.com/artworks-000509479092-r1xps8-t500x500.jpg",
+      "code": "electronic"
+    },
+    {
+      "name": "Hiphop",
+      "images": "https://i1.sndcdn.com/artworks-000247323323-0mmwk9-t500x500.jpg",
+      "code": "hiphoprap"
+    },
+
+    {
+      "name": "House",
+      "images": "https://i1.sndcdn.com/artworks-000498621510-fk1ovg-t500x500.jpg",
+      "code": "house"
+    },
+
+    {
+      "name": "Indie",
+      "images": "https://i1.sndcdn.com/artworks-000219793663-mq15zg-t500x500.jpg",
+      "code": "indie"
+    },
+
+    {
+      "name": "Pop",
+      "images": "https://i1.sndcdn.com/artworks-3UFJGYEaFs8v-0-t500x500.jpg",
+      "code": "pop"
+    },
+
+
+    {
+      "name": "Trance",
+      "images": "https://i1.sndcdn.com/artworks-000292223478-i04td4-t500x500.jpg",
+      "code": "trance"
+    },
+
+    {
+      "name": "Techno",
+      "images": "https://i1.sndcdn.com/artworks-000101340941-nwiiht-t500x500.jpg",
+      "code": "techno"
+    },
+
+    {
+      "name": "Latin",
+      "images": "https://i1.sndcdn.com/artworks-000414888522-v8k408-t500x500.jpg",
+      "code": "latin"
+    },
+
+    {
+      "name": "Metal",
+      "images": "https://i1.sndcdn.com/artworks-000089409858-h698n9-t500x500.jpg",
+      "code": "metal"
+    },
+
+    {
+      "name": "Reggae",
+      "images": "https://i1.sndcdn.com/artworks-000033695413-9mta5p-t500x500.jpg",
+      "code": "reggae"
+    },
+
+    {
+      "name": "Rock",
+      "images": "https://i1.sndcdn.com/artworks-000507401853-zw6z2i-t500x500.jpg",
+      "code": "rock"
+    },
+
+    {
+      "name": "World",
+      "images": "https://i1.sndcdn.com/artworks-000465903753-9c9olz-t500x500.jpg",
+      "code": "world"
+    },
+
+    {
+      "name": "Audio Books",
+      "images": "https://i1.sndcdn.com/artworks-000228494022-t4the2-t500x500.jpg",
+      "code": "audiobooks"
+    },
+
+    {
+      "name": "Business",
+      "images": "https://i1.sndcdn.com/avatars-000261589195-t0eb0j-t500x500.jpg",
+      "code": "business"
+    },
+    {
+      "name": "Comedy",
+      "images": "https://i1.sndcdn.com/artworks-000501543525-5c4v3s-t500x500.jpg",
+      "code": "comedy"
+    },
+
+    {
+      "name": "Entertainment",
+      "images": "https://i1.sndcdn.com/avatars-000221247168-sc2fzp-t500x500.jpg",
+      "code": "entertainment"
+    },
+
+
+    {
+      "name": "Learning",
+      "images": "https://i1.sndcdn.com/artworks-000079913281-goiv2x-t500x500.jpg",
+      "code": "learning"
+    },
+
+
+    {
+      "name": "Science",
+      "images": "https://i1.sndcdn.com/artworks-000378837447-zfazpq-t500x500.jpg",
+      "code": "science"
+    },
+
+
+
+    {
+      "name": "Sports",
+      "images": "https://i1.sndcdn.com/artworks-000129624076-jw2j53-t500x500.jpg",
+      "code": "sports"
+    },
+
+
+    {
+      "name": "Story Telling",
+      "images": "https://i1.sndcdn.com/artworks-000286563893-nn5hwx-t500x500.jpg",
+      "code": "storytelling"
+    },
+
+
+
+    {
+      "name": "Technology",
+      "images": "https://i1.sndcdn.com/artworks-000507647127-c0du31-t500x500.jpg",
+      "code": "technology"
+    }
+  ]
+}

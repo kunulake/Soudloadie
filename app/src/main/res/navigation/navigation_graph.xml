@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.ware.soundloadie.origins.Home"
+        android:label="origin_home"
+        tools:layout="@layout/origin_home" >
+        <action
+            android:id="@+id/action_home_to_genreView"
+            app:destination="@id/genreView" />
+    </fragment>
+    <fragment
+        android:id="@+id/search"
+        android:name="com.ware.soundloadie.origins.Search"
+        android:label="origin_search"
+        tools:layout="@layout/origin_search" />
+    <fragment
+        android:id="@+id/playlist"
+        android:name="com.ware.soundloadie.origins.Playlist"
+        android:label="origin_playlist"
+        tools:layout="@layout/origin_playlist" />
+    <fragment
+        android:id="@+id/offline"
+        android:name="com.ware.soundloadie.origins.Offline"
+        android:label="origin_offline"
+        tools:layout="@layout/origin_offline" />
+    <fragment
+        android:id="@+id/genreView"
+        android:name="com.ware.soundloadie.evolution.GenreView"
+        android:label="evo_genre_view"
+        tools:layout="@layout/evo_genre_view" />
+</navigation>

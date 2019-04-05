@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Soudloadie</string>
+    <string name="menu_home">Charts</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_playlist">playlist</string>
+    <string name="menu_downloads">Offline</string>
+    <string name="client_id">NmW1FlPaiL94ueEu7oziOWjYEzZzQDcK</string>
+    <string name="hint">Search Soundcloud</string>
+    <string name="save_preview">Play Music</string>
+    <string name="download_label">Downloads</string>
+    <string name="intersistal" translatable="false">154071438584216_154072661917427</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
